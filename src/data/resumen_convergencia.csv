@@ -1,0 +1,37 @@
+Funcion,Metodo,Raiz,Iteraciones,Error_Final,Estado
+Polinomica_Simple,Biseccion,1.521380,20,9.54e-07,Convergió
+Polinomica_Simple,Falsa Posicion,1.521379,12,6.03e-07,Convergió
+Polinomica_Simple,Punto Fijo,1.521380,7,1.64e-07,Convergió
+Polinomica_Simple,Secante,1.521380,4,4.98e-07,Convergió
+Polinomica_Simple,Newton-Raphson,1.521380,2,3.59e-04,Convergió
+Polinomica_Simple,Newton-Raphson Mejorado,1.521380,2,3.56e-04,Convergió
+Polinomica_Doble,Biseccion,N/A,0,N/A,No aplica
+Polinomica_Doble,Falsa Posicion,N/A,0,N/A,No aplica
+Polinomica_Doble,Punto Fijo,1.954211,100,4.27e-04,Falló
+Polinomica_Doble,Secante,1.999281,14,4.44e-04,Convergió
+Polinomica_Doble,Newton-Raphson,1.999219,10,7.81e-04,Convergió
+Polinomica_Doble,Newton-Raphson Mejorado,2.000000,1,8.00e-01,Convergió
+Logaritmica,Biseccion,2.926271,19,1.91e-06,Convergió
+Logaritmica,Falsa Posicion,2.926271,4,8.14e-06,Convergió
+Logaritmica,Punto Fijo,2.926271,13,1.54e-06,Convergió
+Logaritmica,Secante,2.926271,3,2.96e-05,Convergió
+Logaritmica,Newton-Raphson,2.926271,3,3.81e-06,Convergió
+Logaritmica,Newton-Raphson Mejorado,2.926271,3,5.73e-06,Convergió
+Exponencial,Biseccion,0.567143,20,9.54e-07,Convergió
+Exponencial,Falsa Posicion,0.567143,7,6.84e-07,Convergió
+Exponencial,Punto Fijo,0.567144,21,1.27e-06,Convergió
+Exponencial,Secante,0.567143,3,3.39e-05,Convergió
+Exponencial,Newton-Raphson,0.567143,2,8.32e-04,Convergió
+Exponencial,Newton-Raphson Mejorado,0.567143,2,8.70e-04,Convergió
+Trigonometrica,Biseccion,0.739085,20,9.54e-07,Convergió
+Trigonometrica,Falsa Posicion,0.739085,5,6.65e-06,Convergió
+Trigonometrica,Punto Fijo,0.739086,33,1.14e-06,Convergió
+Trigonometrica,Secante,0.739085,3,2.11e-04,Convergió
+Trigonometrica,Newton-Raphson,0.739085,3,5.65e-05,Convergió
+Trigonometrica,Newton-Raphson Mejorado,0.739085,3,6.89e-05,Convergió
+Mixta,Biseccion,0.641714,20,8.58e-07,Convergió
+Mixta,Falsa Posicion,0.641714,4,1.08e-05,Convergió
+Mixta,Punto Fijo,0.639911,100,3.68e-03,Falló
+Mixta,Secante,0.641714,3,7.64e-05,Convergió
+Mixta,Newton-Raphson,0.641715,2,1.96e-03,Convergió
+Mixta,Newton-Raphson Mejorado,0.641714,2,9.44e-04,Convergió
